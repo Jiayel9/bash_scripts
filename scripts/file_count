@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# You remember how piping works
+# $ executes everything inside ()
+# ls outputs #of lines, and wc -l counts the number of lines
+file_count=$(ls | wc -l)
+
+# Comment in bash
+echo "Number of files: $file_count"
+
+

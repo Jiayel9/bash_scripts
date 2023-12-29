@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# df is the disk space command, h flag means human readable
+df -h

@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# DONT USE THIS ONE OFTEN FUCKS YOUR SCREEN
+
+# ps is the process status command 
+# aux are flags, you can just search it up if you want
+ps aux

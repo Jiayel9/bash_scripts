@@ -1,0 +1,9 @@
+#!/bin/bash
+
+# whoami command displays current user that is logged in
+username=$(whoami)
+echo "Current user: $username"
+
+# Example execution
+# kevinbevin@Kevins-MacBook-Pro scripts % ./user_info
+# Current user: kevinbevin

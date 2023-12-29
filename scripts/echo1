@@ -1,0 +1,8 @@
+#!/bin/bash
+echo -e  "\nHello, this is a testing script, because you fucking suck at scripting\n"
+
+echo -e "You can use quotation marks, or not use quotation marks with echo, check using vim, or view the file\n"
+
+echo -e "reminder that the e flag for echo evaluates everything after the flags"
+
+

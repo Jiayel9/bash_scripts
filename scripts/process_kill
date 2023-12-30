@@ -5,5 +5,8 @@ process_id=12345
 
 kill -9 "$process_id"
 
+# The 9 flag means SIGKILL whatever that means
+
+# EXAMPLE
 # kevinbevin@Kevins-MacBook-Pro scripts % ./process_kill
 # ./process_kill: line 6: kill: (12345) - No such process
